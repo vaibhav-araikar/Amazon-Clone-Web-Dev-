@@ -28,10 +28,10 @@ To view this project locally, follow these steps:
     cd Amazon-Clone-Web-Dev-
 3. Open index.html in your preferred web browser to see the project in action.
 
-Usage:
+##Usage:
 Feel free to explore the different product listings and the layout. Since this is a frontend-only project, there are no backend interactions or dynamic functionalities.
 
-Contributing:
+##Contributing:
 Contributions are welcome! If you would like to contribute to this project, please feel free to submit issues or pull requests.
 
 Acknowledgements:
